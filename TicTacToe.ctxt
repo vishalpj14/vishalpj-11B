@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=TicTacToe
+comment0.text=\ Tic\ Tac\ Toe\ by\ Vishal\ PJ\r\n\ \r\n\ First\ to\ get\ three\ in\ a\ row\ wins\ the\ game\!\ \r\n\ Started\ on\:\ 21st\ December\ 2023\r\n\ Finished\ by\:\ 15th\ January\ 2024\r\n\ \r\n\ TODO\ List\:\r\n\ [DONE]Make\ the\ game\ loopable\ by\ players\ after\ match\ end\r\n\ Use\ classes\ for\ everything\ so\ the\ game\ can\ be\ repeated\r\n\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=r
+comment2.target=void\ resetGame(char[][])
+comment3.params=
+comment3.target=void\ welcomeInterface()
+comment4.params=k
+comment4.target=void\ printGameStatus(char[][])
+comment5.params=
+comment5.target=void\ emptySpaces()
+comment6.params=rep
+comment6.target=void\ repeaterCheck(int[])
+comment7.params=q
+comment7.target=void\ runGame(char[][])
+comment8.params=
+comment8.target=void\ terminator()
+comment8.text=\r\n\ \ \ \ \ \ \ \ Logic\ of\ the\ game\r\n\ \ \ \ \ \ \ \ Total\ checks\:8\r\n\ \ \ \ \ \ \ \ three\ rows\r\n\ \ \ \ \ \ \ \ three\ colums\r\n\ \ \ \ \ \ \ \ and\ two\ diagonals\ if\ they\ are\ straight\ in\ either\ X/O\r\n\ \ \ \ \ \ \ \ if\ everything\ fail\ boom\ boom\ bam\ bam\ its\ a\ draw\ ggwp\r\n\ \ \ \ \ \ \ \ \r\n
+comment9.params=l
+comment9.target=void\ gameLogic(char[][])
+numComments=10

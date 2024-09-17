@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Supply
+comment1.params=id\ name\ demand\ produced\ rate
+comment1.target=Supply(java.lang.String,\ java.lang.String,\ int,\ int,\ double)
+comment2.params=
+comment2.target=double\ calculation()
+comment3.params=
+comment3.target=void\ display()
+numComments=4

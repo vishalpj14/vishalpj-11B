@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ComplexHelloWorld
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=string
+comment2.target=void\ stringProcessor(java.lang.String)
+comment3.params=
+comment3.target=void\ timeDelay()
+comment4.params=character
+comment4.target=void\ characterProcessor(char)
+numComments=5

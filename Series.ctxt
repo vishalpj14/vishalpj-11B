@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Series
+comment1.params=
+comment1.target=Series()
+comment2.params=nx\ nn
+comment2.target=Series(int,\ int)
+comment3.params=d
+comment3.target=int\ Fact(int)
+comment4.params=a\ b
+comment4.target=int\ power(int,\ int)
+comment5.params=
+comment5.target=int\ sumseries()
+numComments=6
